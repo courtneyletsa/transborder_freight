@@ -4,21 +4,8 @@ This project analyzes transborder freight movement between the United States, Ca
 
 
 ### Focus Areas for Analysis
-1. Freight Movement Patterns
-Examined cross-border trade volumes by year, mode of transport, and destination country
+1. Freight Movement Patterns: Examined cross-border trade volumes by year, mode of transport, and destination country. Analyzed seasonal trends and origin-destination flows
 
-Analyzed seasonal trends and origin-destination flows
+2. Operational Inefficiencies: Compared freight value vs. weight across modes, identified potential logistical bottlenecks or imbalances and investigated container usage efficiency
 
-2. Operational Inefficiencies
-Compared freight value vs. weight across modes
-
-Identified potential logistical bottlenecks or imbalances
-
-Investigated container usage efficiency
-
-3. Environmental Impact
-Assessed impact of high-emission transport modes
-
-Explored how freight routes and modes influence sustainability
-
-Offered insights on optimizing for greener logistics
+3. Environmental Impact: Assessed impact of high-emission transport modes, explored how freight routes and modes influence sustainability and offered insights on optimizing for greener logistics
