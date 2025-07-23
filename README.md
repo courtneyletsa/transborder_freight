@@ -1,5 +1,7 @@
 # transborder_freight
 
+![Transborder Freight Movement Image](transborder_freight_image.jpg)
+
 This project analyzes transborder freight movement between the United States, Canada, and Mexico from 2020 to 2024. The goal is to uncover patterns, operational inefficiencies, and environmental implications using historical transportation data. The analysis supports data-driven decisions to improve freight logistics and promote more sustainable practices across borders.
 
 
